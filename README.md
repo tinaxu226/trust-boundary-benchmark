@@ -2,12 +2,13 @@
 Trust Boundary Benchmark
 Code and data for the paper
 
-Ting Xu and Henry Leung. Does the Trust Boundary Hold over Time? A Long-Horizon Benchmark for Receiver-Directed Federated Learning. 2026.
+Ting Xu and Henry Leung. 
+Does the Trust Boundary Hold over Time? A Long-Horizon Benchmark for Receiver-Directed Federated Learning. 2026.
 
-Status
+#Status
 The code will be released here once the paper is accepted. This page will be updated at that time.
 
-What the benchmark measures
+#What the benchmark measures
 In receiver-directed federated learning, each site judges, on its own data, whether a transfer from another site helps, harms or cannot yet be told. The benchmark asks whether these judgements stay correct over hundreds of rounds of training. It provides:
 
 a semi-synthetic federation of thirteen sites, with minority groups whose outcome relationship differs from the majority;
