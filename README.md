@@ -25,14 +25,9 @@ paired seeds and an attack protocol;
 
 
 **What will be released**
-Configurations and seeds for every run in the paper
-A run manifest
-Raw outputs of every run
-Aggregation scripts that produce the tables and figures
-A CPU-only reproduction mode
-Citation
-A BibTeX entry will be added here once the preprint is online.
+Configurations and seeds for every run in the paper, a run manifest, raw outputs of every run, aggregation scripts that produce the tables and figures, CPU-only reproduction mode, and citations
 
-**Contact
-**Ting Xu, University of Calgary (tina.xu1@ucalgary.ca)
+
+**Contact**
+Ting Xu, University of Calgary (tina.xu1@ucalgary.ca)
 
