@@ -1,11 +1,11 @@
 
-Trust Boundary Benchmark
-Code and data for the paper
+**Trust Boundary Benchmark
+Code and data for the paper**
 
 Ting Xu and Henry Leung. 
 Does the Trust Boundary Hold over Time? A Long-Horizon Benchmark for Receiver-Directed Federated Learning. 2026.
 
-**Status:**
+**Status**
 
 The code will be released here once the paper is accepted. This page will be updated at that time.
 
